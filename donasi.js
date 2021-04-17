@@ -4,13 +4,13 @@ const donasi = () => {
 ◪ *DONASI*
   │
   ├─ ❏ DANA
-  ├─ ❏ 085876330812
+  ├─ ❏ BELUM DAFTAR :)
   ├─ ❏ OVO
-  ├─ ❏ 085876330812
+  ├─ ❏ BELUM JUGA :)
   ├─ ❏ PULSA
-  ├─ ❏ 085876330812
+  ├─ ❏ 082169369877
   ├─ ❏ INSTAGRAM
-  └─ ❏ https://www.instagram.com/scytfdhd._`
+  └─ ❏ https://www.instagram.com/aardnnn_`
 }
 
 exports.donasi = donasi
