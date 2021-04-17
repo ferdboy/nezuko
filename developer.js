@@ -1,13 +1,11 @@
 const developer = (prefix) => { 
 	return `
-    ◪ DappaUhuy
+    ◪ Ferdi Ganteng :v
   │
   ├─ ❏ WhatsApp
-  ├─ ❏ 085876330812
-  ├─ ❏ Youtube
-  ├─ ❏ https://www.youtube.com/channel/UC8IMYvk5Vpze_9kRUwdecZw
+  ├─ ❏ 082169369877
   ├─ ❏ INSTAGRAM
-  └─ ❏ https://www.instagram.com/scytfdhd._
+  └─ ❏ https://www.instagram.com/aardnnn_
 `
 }
 
