@@ -1,6 +1,6 @@
 const infown = () => { 
 	return `
-  ◪ DappaUhuy
+  ◪ Ferdi Ganteng :v
   │
   ├─ ❏ WhatsApp
   ├─ ❏ 082169369877
